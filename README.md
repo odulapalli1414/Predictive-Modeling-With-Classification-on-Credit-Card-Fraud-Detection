@@ -3,7 +3,7 @@
 **ID:** CT08DS4579                                              
 **Domain:** DATA SCIENCE   
 **Duration:** JULY10th, 2024 to AUGUST 10th, 2024  
-**Mentor:** Santhosh  
+**Mentor:** Muzammil Ahmed
 
 # Overview of the Project
 ## Project: Predictive Modeling With Classification on Credit Card Fraud Detection
